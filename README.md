@@ -12,9 +12,9 @@
     <a href="https://medium.com/@vithurshiniS">
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
-    <a href="https://drive.google.com/file/d/1qaH-oTi_LmMJ4U32ex0R_KIzADxuB2Qq/view?usp=sharing">
+    <!-- <a href="https://drive.google.com/file/d/1qaH-oTi_LmMJ4U32ex0R_KIzADxuB2Qq/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
-  </a>
+  </a> -->
   </div>
   <img src="https://komarev.com/ghpvc/?username=vithurshiniS&style=flat-square&color=blue" alt=""/>
   <h1>Hi there 👋</h1>
@@ -22,9 +22,9 @@
 
 ### :woman_technologist: About Me :
 
-I am currently a final-year Computer Engineering undergraduate at the University of Peradeniya.
+I am a Software Engineer at Sysco LABS Srilanka.
 
-- **🌐 Frontend Development:** Passionate about building dynamic and responsive web and mobile applications.
+- **🌐 Fullstack Development:** Passionate about building dynamic and responsive web and mobile applications.
 - **🔍 Natural Language Processing:** Actively exploring advancements and applications in NLP.
 - **✍️ Writing:** Enjoy writing articles on various topics in my free time.
 - **📫 Contact:** Feel free to reach out to me at [vithurshinisubramanieam@gmail.com](mailto:vithurshinisubramanieam@gmail.com).
